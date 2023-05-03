@@ -8,3 +8,13 @@ Complete authentication app that lets user sign up, sign in, reset password, sig
   * Sign In
   * Sign In using social accounts
   * Reset passwords
+
+## Tech used
+
+  * NodeJS
+  * Express
+  * EJS
+  * Bootstrap
+  * Passport-local
+  * Passport-Google-Oauth
+  * Mongoose
